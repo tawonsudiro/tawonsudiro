@@ -114,4 +114,29 @@ green='\e[0;23m'
 purple='\e[1;35m'
 cyan='\e[1;36m'
 red='\e[1;32m'
+
+#echo -e $green'================================================================================'
+#echo -e $red[+] $cyan"$HOSTNAME uptime is "$red[+]$cyan;uptime | awk /'up/ {print $3,$4,$5,$6,$7,$8,$9,$10}'
+#uname -r
+#uname -v -s
+#echo -e $red[+]$cyan Today :$red[+]$cyan 
+#date
+#echo -e $green'================================================================================'
+#Figlet nama
+#echo -e $green
+#figlet -f slant "#Bbm: Yu-suf #"
+#echo -e $red     '_________________<☠ CINTA JANGAN BIARKAN SEDIH ☠>_________________'
 clear
+echo -e $purple "      =====================================================" 
+echo -e $green "      #                                                   #" 
+echo -e $purple "      #     [SELAMAT DATANG DI VPS - MOCH-ZHARCHONI]      #" 
+echo -e $blue "      #                                                   #" 
+echo -e $green "      #           WhatsApp       : 082234537749           #" 
+echo -e $red "      #           Telegram       : @ScriptVps             #" 
+echo -e $blue "      #           Facebook       : fb.com/t34mh4ck3r      #" 
+echo -e $red "      #           Pin Bbm        : yu-suf                 #" 
+echo -e $purple "      #           Silahkan Ketik : menu (enter)           #" 
+echo -e $green "      #                                                   #" 
+echo -e $cyan "      #    Copyright: © YUSUF-ARDIANSYAH™ Premium 2017    #" 
+echo -e $purple "      =====================================================" 
+echo -e ""
