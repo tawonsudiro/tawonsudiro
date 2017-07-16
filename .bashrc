@@ -115,3 +115,19 @@ purple='\e[1;35m'
 cyan='\e[1;36m'
 red='\e[1;32m'
 clear
+echo "" | lolcat
+echo "" 
+echo "        ---[MODIFIED SCRIPT BY. Tawonsudiro]---"| boxes -d mouse| lolcat
+echo "        ====================================================="| lolcat
+echo "        #           WhatsApp     : 083148123457             #"| lolcat
+echo "        #           Facebook     : SumbonGknightReborn      #"| lolcat
+echo "        #           Pin-BBM      : Gknight                  #"| lolcat
+echo "        #              GKnight Reborn Team                  #"| lolcat
+echo "        #         Copyright © Tawonsudiro                   #"| lolcat
+echo "        ====================================================="| lolcat
+echo "              Your Ip Adress : $myip"| lolcat
+echo "-------------------------------------------------------------------" |lolcat
+echo "--------------- Welcome to Premium Script Menu -------------" |lolcat
+	
+echo "-------------------Silahkan Request Fitur Lain---------------------" |lolcat
+echo "---------------Script Modified Tawonsudiro-----------------" |lolcat
